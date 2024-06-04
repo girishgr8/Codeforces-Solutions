@@ -23,6 +23,9 @@ nav:
       - 1975:
           - A. Bazoka and Mocha's Array: problems/1975/A.md
           - B. 378QAQ and Mocha's Array: problems/1975/B.md
+      - 1977:
+          - A. Little Nikita: problems/1977/A.md
+          # - B. Binary Colouring: problems/1977/B.md
 
 # https://squidfunk.github.io/mkdocs-material/
 
@@ -115,3 +118,16 @@ markdown_extensions:
 
 extra:
   disqus: "codeforces-solutions"
+  social:
+    - icon: simple/leetcode
+      link: https://leetcode.com/girish13/
+    - icon: simple/codeforces
+      link: https://codeforces.com/profile/girish_thatte
+    - icon: simple/linkedin
+      link: https://www.linkedin.com/in/girish-thatte/
+    - icon: simple/github
+      link: https://github.com/girishgr8/
+    - icon: simple/geeksforgeeks
+      link: https://www.geeksforgeeks.org/user/girish_thatte/
+    - icon: simple/instagram
+      link: https://www.instagram.com/girya13/
